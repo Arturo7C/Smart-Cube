@@ -69,7 +69,7 @@ void setup() {
   FastLED.addLeds<NEOPIXEL, DATA_PIN>(leds, NUM_LEDS);
 }
 void loop() {
-  //const char text[] = "Hello Bitches";
+  //const char text[] = "Hello";
   //radio.write(&text, sizeof(text));
   //delay(1000);
 
